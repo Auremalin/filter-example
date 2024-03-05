@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "5d945d58e3fd59625ac0cf5b",
+        "name": "Histoire",
+        "nameSlug": "histoire",
+        "createdAt": 1570004311731,
+        "updatedAt": 1613585029569,
+        "shortName": "Hist."
+    },
+    {
+        "_id": "5d945d58e3fd59625ac0cf55",
+        "name": "Français",
+        "nameSlug": "francais",
+        "createdAt": 1570004311731,
+        "updatedAt": 1613584978719,
+        "shortName": "Fran."
+    },
+    {
+        "_id": "5d945d58e3fd59625ac0cf54",
+        "name": "Mathématiques",
+        "nameSlug": "mathematiques",
+        "createdAt": 1570004311731,
+        "updatedAt": 1613584967155,
+        "shortName": "Maths"
+    }
+]

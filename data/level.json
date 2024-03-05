@@ -1,0 +1,259 @@
+[
+    {
+        "_id": "5d945d57e3fd59625ac0cf24",
+        "name": "6e",
+        "nameSlug": "6e",
+        "createdAt": 1570004311731,
+        "updatedAt": 1683799774518,
+        "subjects": [
+          {
+            "_id": "5d945d58e3fd59625ac0cf54"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf55"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf56"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf57"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf58"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf59"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5a"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5b"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5c"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5d"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6a"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6b"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6c"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6d"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf71"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf72"
+          }
+        ],
+        "codes": [
+          "6EME",
+          "2111"
+        ],
+        "trainingLevels": [
+          {
+            "_id": "5f6b3c701f7e7753b4d8b1f5"
+          },
+          {
+            "_id": "5f69a1671f7e7753b4d8b062"
+          },
+          {
+            "_id": "613b6f2635ccd248444cfc63"
+          }
+        ],
+        "displayName": "Sixième"
+      },{
+        "_id": "5d945d57e3fd59625ac0cf25",
+        "name": "5e",
+        "nameSlug": "5e",
+        "createdAt": 1570004311731,
+        "updatedAt": 1703077791899,
+        "subjects": [
+          {
+            "_id": "5d945d58e3fd59625ac0cf54"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf55"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf56"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf57"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf58"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf59"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5a"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5b"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5c"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5d"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6a"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6b"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6c"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6d"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf71"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf72"
+          }
+        ],
+        "codes": [
+          "5EME",
+          "2112"
+        ],
+        "trainingLevels": [
+          {
+            "_id": "5d945d57e3fd59625ac0cf25"
+          }
+        ],
+        "displayName": "Cinquième"
+      },{
+        "_id": "5d945d57e3fd59625ac0cf26",
+        "name": "4e",
+        "nameSlug": "4e",
+        "createdAt": 1570004311731,
+        "updatedAt": 1703077809730,
+        "subjects": [
+          {
+            "_id": "5d945d58e3fd59625ac0cf54"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf55"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf56"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf57"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf58"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf59"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5a"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5b"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5c"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5d"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6a"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6b"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6c"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6d"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf71"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf72"
+          }
+        ],
+        "codes": [
+          "4EME",
+          "2115"
+        ],
+        "trainingLevels": [
+          {
+            "_id": "5d945d57e3fd59625ac0cf26"
+          }
+        ],
+        "displayName": "Quatrième"
+      },{
+        "_id": "5d945d58e3fd59625ac0cf33",
+        "name": "CAP 1",
+        "nameSlug": "cap-1",
+        "createdAt": 1570004311731,
+        "updatedAt": 1605191185528,
+        "subjects": [
+          {
+            "_id": "5d945d58e3fd59625ac0cf6e"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6f"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf70"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf54"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf55"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf56"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf57"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf58"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf6c"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5d"
+          },
+          {
+            "_id": "5d945d58e3fd59625ac0cf5b"
+          }
+        ],
+        "codes": [
+          "CAP1"
+        ],
+        "trainingLevels": [
+          {
+            "_id": "5f44e2712ef51078080eb434"
+          },
+          {
+            "_id": "5f7751c94ad91340da2124f0"
+          }
+        ]
+      }
+]
