@@ -1,0 +1,120 @@
+[
+    {
+          "_id": "5d946360811e8921fe0747c8",
+        "name": "Les débuts de l'humanité - Révisions",
+        "levels": [
+          {
+            "_id": "5d945d57e3fd59625ac0cf24"
+          }
+        ],
+        "introduction": "<p>Bienvenue sur le parcours <b>{parcours}</b>. Pour réviser efficacement, je vais t’aider à :</p><ul><li>Mémoriser la leçon</li><li>Réussir un exercice</li><li>Evaluer tes connaissances.</li></ul><p>Maintenant c’est à toi de jouer !</p>",
+        "nameSlug": "les-debuts-de-l'humanite-revisions",
+        "keywords": [],
+        "keywordSlug": [],
+        "status": "Published",
+        "public": false,
+        "createdAt": 1570005856833,
+        "updatedAt": 1572826018230,
+        "subjectId": {
+          "_id": "5d945d58e3fd59625ac0cf5b"
+        },
+        "typeId": {
+          "_id": "5d94791e811e8921fe0747ef"
+        },
+        "creatorId": {
+          "_id": "5d924f116eedc92cbf8e04de"
+        },
+        "modules": [
+          {
+            "_id": "5d9263c86eedc92cbf8e04e4"
+          },
+          {
+            "_id": "5d9457d8811e8921fe0747aa"
+          },
+          {
+            "_id": "5d945a1a811e8921fe0747b3"
+          }
+        ],
+        "edumalin": true,
+        "duration": 30,
+        "schoolYear": "2019-2020"
+      },{
+          "_id": "5d949b27811e8921fe07480f",
+        "name": "L'Orient ancien - Révisions",
+        "levels": [
+          {
+            "_id": "5d945d57e3fd59625ac0cf24"
+          }
+        ],
+        "introduction": "<p>Bienvenue sur le parcours <b>{parcours}</b>. Pour réviser efficacement, je vais t’aider à :</p><ul><li>Mémoriser la leçon</li><li>Réussir un exercice</li><li>Evaluer tes connaissances.</li></ul><p>Maintenant c’est à toi de jouer !</p>",
+        "nameSlug": "l'orient-ancien-revisions",
+        "keywords": [],
+        "keywordSlug": [],
+        "status": "Published",
+        "public": false,
+        "createdAt": 1570020135931,
+        "updatedAt": 1572825977917,
+        "subjectId": {
+          "_id": "5d945d58e3fd59625ac0cf5b"
+        },
+        "typeId": {
+          "_id": "5d94791e811e8921fe0747ef"
+        },
+        "creatorId": {
+          "_id": "5d924f116eedc92cbf8e04de"
+        },
+        "modules": [
+          {
+            "_id": "5d947d3f811e8921fe0747f7"
+          },
+          {
+            "_id": "5d949676811e8921fe074801"
+          },
+          {
+            "_id": "5d949afe811e8921fe07480d"
+          }
+        ],
+        "edumalin": true,
+        "duration": 30,
+        "schoolYear": "2019-2020"
+      },{
+          "_id": "5d949cee811e8921fe074811",
+        "name": "La révolution néolithique - Révisions",
+        "levels": [
+          {
+            "_id": "5d945d57e3fd59625ac0cf24"
+          }
+        ],
+        "introduction": "<p>Bienvenue sur le parcours <b>{parcours}</b>. Pour réviser efficacement, je vais t’aider à :</p><ul><li>Mémoriser la leçon</li><li>Réussir un exercice</li><li>Evaluer tes connaissances.</li></ul><p>Maintenant c’est à toi de jouer !</p>",
+        "nameSlug": "la-revolution-neolithique-revisions",
+        "keywords": [],
+        "keywordSlug": [],
+        "status": "Published",
+        "public": false,
+        "createdAt": 1570020590252,
+        "updatedAt": 1582554277076,
+        "subjectId": {
+          "_id": "5d945d58e3fd59625ac0cf5b"
+        },
+        "typeId": {
+          "_id": "5d94791e811e8921fe0747ef"
+        },
+        "creatorId": {
+          "_id": "5d924f116eedc92cbf8e04de"
+        },
+        "modules": [
+          {
+            "_id": "5d94639e811e8921fe0747ca"
+          },
+          {
+            "_id": "5d94750e811e8921fe0747ee"
+          },
+          {
+            "_id": "5d94662d811e8921fe0747d8"
+          }
+        ],
+        "edumalin": true,
+        "duration": 30,
+        "schoolYear": "2019-2020"
+      }
+]
